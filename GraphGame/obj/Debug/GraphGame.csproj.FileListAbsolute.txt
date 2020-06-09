@@ -1,0 +1,15 @@
+H:\Прога\source\repos\EmilGraph\EmilGraph\bin\Debug\GraphGame.exe.config
+H:\Прога\source\repos\EmilGraph\EmilGraph\bin\Debug\GraphGame.exe
+H:\Прога\source\repos\EmilGraph\EmilGraph\bin\Debug\GraphGame.pdb
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.csprojAssemblyReference.cache
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.EdgeForm.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.MainForm.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.Properties.Resources.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.TopDelForm.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.topForm.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.csproj.GenerateResource.cache
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.csproj.CoreCompileInputs.cache
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.exe
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.pdb
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.ChipForm.resources
+H:\Прога\source\repos\EmilGraph\EmilGraph\obj\Debug\GraphGame.ChipDeleteForm.resources
