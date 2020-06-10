@@ -82,6 +82,7 @@
             // 
             // btCancel
             // 
+            this.btCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btCancel.Location = new System.Drawing.Point(147, 110);
             this.btCancel.Name = "btCancel";
             this.btCancel.Size = new System.Drawing.Size(125, 45);
